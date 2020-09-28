@@ -1,0 +1,13 @@
+body{
+    background-color: teal;
+    background-image: linear-gradient(to bottom left, rgb(47, 66, 83), teal);
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(21, 161, 147);
+    -webkit-text-stroke: 1px black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
