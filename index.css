@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(255, 81, 13);
+    background-image: linear-gradient(to bottom right, red, yellow);
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#ffffff, #e7e7e7);
+    -webkit-background-clip: text;
+    -webkit-text-stroke: 0.3px black;
+    background-clip: text;
+    color: transparent;
+    text-align: center;
+  }
+  
+  p {
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+    text-align: center;
+  }
+  button {
+    background-color: #fffb00; 
+    background-image: linear-gradient(to bottom right, yellow, red);
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 1px black;
+    padding: 15px 32px;
+    font-family: fantasy;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 45%;
+    border-radius: 10px;
+  }
+
+  img{
+    margin-left: 36%;
+    margin-top: 3%;
+    border: darkblue;
+    border-radius: 50%;
+    border:3px solid #021a40;
+    
+  }
+ 
