@@ -19,7 +19,7 @@ function ageAccesebility ()
        if( confirm("Är inte du lite för gammal för att kolla på glaspenisar")){
         window.location.href = "glasGalleriet.html";
     }
-        
+    
     }
     else{window.location.href = "glasGalleriet.html";} 
     }
